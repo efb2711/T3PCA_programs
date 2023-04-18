@@ -1,5 +1,5 @@
 # T3PCA_programs
-Programs to perform T3-PCA analysis
+Programs to perform T3-PCA analysis//
 Example:
 load("SR_data.RData")
 source("T3PCAfunc.R")
